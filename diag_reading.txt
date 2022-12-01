@@ -1,1 +1,2 @@
 //Fonction Lock
+wait(500)
